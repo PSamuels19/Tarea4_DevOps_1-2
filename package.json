@@ -1,0 +1,21 @@
+{
+  "name": "tarea4_sa",
+  "version": "1.0.0",
+  "description": "SEMVER",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PSamuels19/Tarea4_DevOps_1-2/tree/develop"
+  },
+  "keywords": [
+    "SA"
+  ],
+  "author": "P. Samuels",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
